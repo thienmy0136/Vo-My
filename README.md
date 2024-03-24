@@ -18,17 +18,17 @@ This is a repository to showcase skills, share projects, and track my progress i
 - Portfolio Project
     - Python
       - [2022-Capstone Design: Modeling the spread of COVID-19 in Ho Chi Minh City during fourth wave]()
-      - [2023-Data Analyst NICxGoogle Case Study 1: How Does a Bike-Share Navigate Speedy Success]()
+      - [2023-Data Analyst NICxGoogle Case Study 1: How Does a Bike-Share Navigate Speedy Success](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/bc2701dc2c46b858b5d114c6c0b5df0c9e4bce7c/CAPSTONE%20DESIGN%20CASE%20STUDY%201_Cyclistic%20Data.pdf)
  
     - SQL
-      - [2023-Data Analyst NICxGoogle Case Study 1: How Does a Bike-Share Navigate Speedy Success]()
+      - [2023-Data Analyst NICxGoogle Case Study 1: How Does a Bike-Share Navigate Speedy Success](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/2648423b157d4e0cc101a9d3306e10ecfd2fe8cf/Case-study1_Cyclistic%20Data_Google-cert.sql)
  
     - Power BI
       - [2024-Analyzing Customer Churn in Power BI: Datacamp Power BI training certificate]()
-      - [2024-HR Analytics in Power BI: Datacamp Power BI training certificate]()
+
 
     - Simulation
-          -  [2022-Modeling Ambulance Service for high-risk epidemic patients in HCMC during the COVID-19 outbreak through ARENA simulation software]()
+          -  [2022-Modeling Ambulance Service for high-risk epidemic patients in HCMC during the COVID-19 outbreak through ARENA simulation software](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/bc2701dc2c46b858b5d114c6c0b5df0c9e4bce7c/ICLIE2022_paper_Modelling%20Ambulance%20Service%20for%20COVID-19.pdf)
 
 
 - [Education]()  
