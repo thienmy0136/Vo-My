@@ -121,7 +121,7 @@ June 2023 - Sep 2023
 
 December 2024 - Present
 
-## Certificates
+## Achievements
 Here are some of the certificates I gathered to assist me in this Data Analytics journey:
 - [Google Data Analytics Professional Certificate](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/8d940ce37a1ed8661e06f8e7484cb044fea7aa4a/Coursera_Data%20Analysis_Certificate.pdf) (Sep 2023) (Coursera - Google)
   
