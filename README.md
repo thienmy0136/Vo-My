@@ -56,8 +56,32 @@ The result shows that the forecasting of daily confirmed cases is similar to tho
 Hence, the government must take action not only on the number of deaths itself but also on the effectiveness of the vaccination rate, and provide sufficient incubation days that help minimize the spread while strictly implementing social distancing policies during the peaks of the epidemic, which can be forecasted based on our simplified model. 
 
 
+## 2023-Data Analyst NICxGoogle Case Study 1: How Does a Bike-Share Navigate Speedy Success
+**Code:** [Case Study 1: How Does a Bike-Share Navigate Speedy Success]()
+
+- **Goal:** 
+
+- **Description:** 
+
+- **Skills:** 
+
+- **Technology:**
+  
+- **Results:** 
 
 
+## 2022-Modeling Ambulance Service for high-risk epidemic patients in HCMC during the COVID-19 outbreak through ARENA simulation software
+**Code:** [Modeling Ambulance Service for high-risk epidemic patients]()
+
+- **Goal:** 
+
+- **Description:** 
+
+- **Skills:** 
+
+- **Technology:**
+  
+- **Results:** 
 
 
 
@@ -78,27 +102,25 @@ Hence, the government must take action not only on the number of deaths itself b
 
 
 ## Education
-University of Colorado, Boulder: 
-Master of Science - MS, Data Science,
-Dec 2022 - Dec 2024
+International University, National University of Ho Chi Minh City, Vietnam
+Industrial and System Engineering
+2018 - 2022
 
-The University of the West Indies, Mona:
-Bachelor's degree, Biochemistry and Molecular Biology,
-2019 - 2022
+Google Data Analytics Professional Program
+June 2023 - Sep 2023
 
-Pre University School:
-Associate's degree, Science and Mathematics,
-2017 - 2019
+Data Analyst with Power BI Datacamp Career Track
+December 2024 - Present
 
 ## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
+Here are some of the certificates I gathered to assist me in this Data Analytics journey:
+- [Google Data Analytics Professional Certificate](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/8d940ce37a1ed8661e06f8e7484cb044fea7aa4a/Coursera_Data%20Analysis_Certificate.pdf) (Sep 2023) (Coursera - Google)
+  
+- [Python for Data Analytics]() (2023 - 2024) (Datacamp)
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
-- Email: parristianna@yahoo.com
+- LinkedIn: [@myvo](www.linkedin.com/in/vo-thi-thien-my)
+- Email: thienmy0136@gmail.com
 
 
 
