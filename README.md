@@ -36,10 +36,15 @@ In this part, I will list data analytics projects and briefly describe the probl
 
 ### Capstone Design: Modeling the spread of COVID-19 in HCMC during epidemic 4th-wave
 **Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`]()
+
 **Goal:** 
+
 **Description:** 
+
 **Skills:** 
+
 **Technology:** 
+
 **Results:** 
 
 
