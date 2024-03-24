@@ -23,7 +23,8 @@ This is a repository to showcase skills, share projects, and track my progress i
       - [2023-Data Analyst NICxGoogle Case Study 1: How Does a Bike-Share Navigate Speedy Success]()
  
     - Power BI
-      - [Analyzing Customer Churn in Power BI: DatacampxMicrosoft Power BI training certificate]()
+      - [2024-Analyzing Customer Churn in Power BI: Datacamp Power BI training certificate]()
+      - [2024-HR Analytics in Power BI: Datacamp Power BI training certificate]()
 
 
 - [Education]()  
@@ -34,6 +35,12 @@ This is a repository to showcase skills, share projects, and track my progress i
 In this part, I will list data analytics projects and briefly describe the problem and technique used to solve cases. 
 
 ### Capstone Design: Modeling the spread of COVID-19 in HCMC during epidemic 4th-wave
+**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`]()
+**Goal:** 
+**Description:** 
+**Skills:** 
+**Technology:** 
+**Results:** 
 
 
 
