@@ -1,5 +1,5 @@
 # Vo-Thi-Thien-My - Data Analyst Portfolio
-## About
+# About
 Hello, I'm Thien My! 
 I have an analytical background in Industrial Engineering and have gained 1-year experience in the field of production as an Industrial Engineer at Jabil Vietnam, located in Saigon High-tech Park, Ho Chi Minh City, Vietnam.
 
@@ -35,10 +35,10 @@ This is a repository to showcase skills, share projects, and track my progress i
 - [Certificates]()
 - [Contact]()
 
-## Portfolio Project
+# Portfolio Project
 In this part, I will list data analytics projects and briefly describe the problem and technique used to solve cases. 
 
-### Capstone Design: Modeling the spread of COVID-19 in HCMC during epidemic 4th-wave
+## Capstone Design: Modeling the spread of COVID-19 in HCMC during epidemic 4th-wave
 **Code:** [Modeling the spread of COVID-19 in Ho Chi Minh city using ARIMA model](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/8966e09f010ab95eae4ff40ef2d11909a67affb3/COVID-19_forecasting-model_Capstone-design.pdf)
 
 - **Goal:** Forecasting the spread of COVID-19 in Ho Chi Minh City, Vietnam during the biggest wave of the epidemic in 2021 to understand the basics of impact an upcoming wave can have on social and economic aspects
