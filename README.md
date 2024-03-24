@@ -50,6 +50,7 @@ In this part, I will list data analytics projects and briefly describe the probl
 **Technology:** Python, pandas, numpy, matplotlib, statsmodels
 
 **Results:** 
+
 The result shows that the forecasting of daily confirmed cases is similar to those of recorded ones; specifically, the model was able to demonstrate the distribution of daily confirmed cases accurately and provided the correct estimation for the two peaks during the fourth wave between April and November which indicates that the implementation of external data is considered adequate and effective to the forecasting model. 
 
 Hence, the government must take action not only on the number of deaths itself but also on the effectiveness of the vaccination rate, and provide sufficient incubation days that help minimize the spread while strictly implementing social distancing policies during the peaks of the epidemic, which can be forecasted based on our simplified model. 
