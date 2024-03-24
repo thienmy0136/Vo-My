@@ -17,10 +17,10 @@ This is a repository to showcase skills, share projects, and track my progress i
     - Python
       - [2022-Capstone Design: Modeling the spread of COVID-19 in Ho Chi Minh City during fourth wave]()
       - [2022-Modeling Ambulance Service for high-risk epidemic patients in HCMC during the COVID-19 outbreak through ARENA simulation software]()
-      - [2023-Data Analyst NICxGoogle Case Study 1: How Does a Bike-Share Navigate Speedy Success]
+      - [2023-Data Analyst NICxGoogle Case Study 1: How Does a Bike-Share Navigate Speedy Success]()
  
     - SQL
-      - [2023-Data Analyst NICxGoogle Case Study 1: How Does a Bike-Share Navigate Speedy Success]
+      - [2023-Data Analyst NICxGoogle Case Study 1: How Does a Bike-Share Navigate Speedy Success]()
  
     - Power BI
       - [Analyzing Customer Churn in Power BI: DatacampxMicrosoft Power BI training certificate]()
