@@ -1,4 +1,4 @@
-# Vo-Thi-Thien-My - Data Analyst Portfolio
+# Vo Thi Thien My - Data Analyst Portfolio
 # About
 Hello, I'm Thien My! 
 I have an analytical background in Industrial Engineering and have gained 1-year experience in the field of production as an Industrial Engineer at Jabil Vietnam, located in Saigon High-tech Park, Ho Chi Minh City, Vietnam.
