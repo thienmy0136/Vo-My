@@ -37,7 +37,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 
 
 - [Education]()  
-- [Certificates]()
+- [Achievements]()
 - [Contact]()
 
 # Portfolio Project
