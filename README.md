@@ -102,14 +102,18 @@ Hence, the government must take action not only on the number of deaths itself b
 
 
 ## Education
-International University, National University of Ho Chi Minh City, Vietnam
+
+### International University, National University of Ho Chi Minh City, Vietnam
 Industrial and System Engineering
+
 2018 - 2022
 
-Google Data Analytics Professional Program
+### Google Data Analytics Professional Program
+
 June 2023 - Sep 2023
 
-Data Analyst with Power BI Datacamp Career Track
+### Data Analyst with Power BI Datacamp Career Track
+
 December 2024 - Present
 
 ## Certificates
@@ -117,6 +121,8 @@ Here are some of the certificates I gathered to assist me in this Data Analytics
 - [Google Data Analytics Professional Certificate](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/8d940ce37a1ed8661e06f8e7484cb044fea7aa4a/Coursera_Data%20Analysis_Certificate.pdf) (Sep 2023) (Coursera - Google)
   
 - [Python for Data Analytics]() (2023 - 2024) (Datacamp)
+
+- [Data Analyst with Power BI]() (2024) (Datacamp)
 
 ## Contacts
 - LinkedIn: [@myvo](www.linkedin.com/in/vo-thi-thien-my)
