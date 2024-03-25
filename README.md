@@ -68,7 +68,7 @@ Hence, the government must take action not only on the number of deaths itself b
 
 - **Report** [Case Study 1: How Does a Bike-Share Navigate Speedy Success](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/f6b64d701bb2ab742946bef691d309e160cf6407/Case-study-1_Cyclistics%20Data.pdf)
 
-- **Goal:** To determine how annual members and casual riders use Cyclistics bike differently so as to provide recommendations for future marketing strategy
+- **Goal:** To determine how annual members and casual riders use Cyclistics bikes differently so as to provide recommendations for future marketing strategy
 
 - **Description:** Cyclistic is a bike share company with a fleet of bicycles that are geotracked and locked into a network of stations across Chicago. Cyclistic has three pricing plans: single-ride passes, full-day passes, and annual memberships. Customers who purchase single-ride or full-day passes are referred to as casual riders. Customers who purchase annual memberships are annual members. The data used in this case study is a 12-month dataset, from July-2022 to June-2023.
 
@@ -77,24 +77,24 @@ Hence, the government must take action not only on the number of deaths itself b
 - **Technology:** postgreSQL, Excel
 
 - **Recommendation**
-    - Promotions should happen more often during the weekend as Casual riders are ones that use the service to travel to tourist attractions, and this frequencies increases during the weekend.
-    - Promotion for the service exclusively for new members in Summer should be prioritize as the number of people using the service will peak during that time.
-    - Focus more on the credit for how long a person use the service to travel to tourist attractions in Chicago
+    - Promotions should happen more often during the weekend as Casual riders use the service to travel to tourist attractions, and this frequency increases during the weekend.
+    - Promotion for the service exclusively for new members in Summer should be prioritized as the number of people using the service will peak during that time.
+    - Focus more on the credit for how long a person uses the service to travel to tourist attractions in Chicago
 
 ## 2022-Modeling Ambulance Service for high-risk epidemic patients in HCMC during the COVID-19 outbreak through ARENA simulation software
-**Code:** [Modeling Ambulance Service for high-risk epidemic patients]()
+- **Code:** [Modeling Ambulance Service for high-risk epidemic patients]()
 
 - **Goal:**
   - Minimize high-risk epidemic patients who are not able to have access to medical assistance regarding COVID-19 and may be exposed to death if they do not receive adequate medical assistance on time.
-  - Improve efficiency in EMS system through balancing out the emergency medical system’s load in epidemic patients admission
+  - Improve efficiency in the EMS system by balancing out the emergency medical system’s load in epidemic patient admission
 
-- **Description:** Consider an ambulance service modeling for high-risk epidemic patients in Ho Chi Minh city during the fourth wave of COVID-19 started from June, 2021
+- **Description:** Consider an ambulance service modeling for high-risk epidemic patients in Ho Chi Minh City during the fourth wave of COVID-19 started in June, 2021
 
 - **Skills:** data collection, data validation, simulation, data visualization
 
-- **Technology:** python, ARENA, Excel
+- **Technology:** Python, ARENA, Excel
   
-- **Results:** Through this model, distribution of ambulance in each area is considered as one of the most important conditions help increase the number of people can be saved. In summary, the Ambulance Service (AS) model for COVID-19 has successfully demonstrate the actual situation happened during the pandemic, where the number of response time drastically changed among areas, deficient performance in ambulance utilization where there was a big gap in the number of ambulances used among 22 districts.
+- **Results:** Through this model, the distribution of ambulances in each area is considered as one of the most important conditions to help increase the number of people who can be saved. In summary, the Ambulance Service (AS) model for COVID-19 has successfully demonstrated the actual situation that happened during the pandemic, where the response time drastically changed among areas, deficient performance in ambulance utilization where there was a big gap in the number of ambulances used among 22 districts.
 
 
 
