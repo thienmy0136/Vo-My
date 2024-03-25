@@ -76,7 +76,7 @@ Hence, the government must take action not only on the number of deaths itself b
 
 
 ## 2022-Modeling Ambulance Service for high-risk epidemic patients in HCMC during the COVID-19 outbreak through ARENA simulation software
-**Code:** [Modeling Ambulance Service for high-risk epidemic patients]()
+**Code:** [Modeling Ambulance Service for high-risk epidemic patients](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/dbd1962569bb432df391307270d0f463dbb9d793/Case-study1_Cyclistic%20Data_Google-cert.sql)
 
 - **Goal:** 
 
