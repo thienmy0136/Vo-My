@@ -22,11 +22,11 @@ This is a repository to showcase skills, share projects, and track my progress i
 - [About](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/753a6355b8c457e64118bd5dea03a062c6d1b0c0/README.md)
 - Portfolio Project
     - Python
-      - [2022-Capstone Design: Modeling the spread of COVID-19 in Ho Chi Minh City during fourth wave]()
-      - [2023-Data Analyst NICxGoogle Case Study 1: How Does a Bike-Share Navigate Speedy Success](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/bc2701dc2c46b858b5d114c6c0b5df0c9e4bce7c/CAPSTONE%20DESIGN%20CASE%20STUDY%201_Cyclistic%20Data.pdf)
+      - [2022-Capstone Design: Modeling the spread of COVID-19 in Ho Chi Minh City during fourth wave](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/3a3cfba15a5c46bbe8550c7c57606148a9bfbbed/COVID-19_forecasting-model_Capstone-design.pdf)
+      - 2023-Data Analyst NICxGoogle Case Study 1: How Does a Bike-Share Navigate Speedy Success
  
     - SQL
-      - [2023-Data Analyst NICxGoogle Case Study 1: How Does a Bike-Share Navigate Speedy Success](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/2648423b157d4e0cc101a9d3306e10ecfd2fe8cf/Case-study1_Cyclistic%20Data_Google-cert.sql)
+      - [2023-Data Analyst NICxGoogle Case Study 1: How Does a Bike-Share Navigate Speedy Success](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/f6b64d701bb2ab742946bef691d309e160cf6407/Case-study-1_Cyclistics%20Data.pdf)
  
     - Power BI
       - [2024-Analyzing Customer Churn in Power BI: Datacamp Power BI training certificate]()
@@ -44,7 +44,9 @@ This is a repository to showcase skills, share projects, and track my progress i
 In this part, I will list data analytics projects and briefly describe the problem and technique used to solve cases. 
 
 ## Capstone Design: Modeling the spread of COVID-19 in HCMC during epidemic 4th-wave
-**Code:** [Modeling the spread of COVID-19 in Ho Chi Minh city using ARIMA model](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/8966e09f010ab95eae4ff40ef2d11909a67affb3/COVID-19_forecasting-model_Capstone-design.pdf)
+- **Code:** [ARIMA model](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/3a3cfba15a5c46bbe8550c7c57606148a9bfbbed/Capstone%20stone_ARIMA%20model_python.docx) 
+
+- **Paper** [Modeling the spread of COVID-19 in Ho Chi Minh city using ARIMA model](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/8966e09f010ab95eae4ff40ef2d11909a67affb3/COVID-19_forecasting-model_Capstone-design.pdf)
 
 - **Goal:** Forecasting the spread of COVID-19 in Ho Chi Minh City, Vietnam during the biggest wave of the epidemic in 2021 to understand the basics of impact an upcoming wave can have on social and economic aspects
 
@@ -62,47 +64,37 @@ Hence, the government must take action not only on the number of deaths itself b
 
 
 ## 2023-Data Analyst NICxGoogle Case Study 1: How Does a Bike-Share Navigate Speedy Success
-**Code:** [Case Study 1: How Does a Bike-Share Navigate Speedy Success]()
+- **Code:** [Case study 1: Cyclistic Bike-share service data exploration using SQL](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/2648423b157d4e0cc101a9d3306e10ecfd2fe8cf/Case-study1_Cyclistic%20Data_Google-cert.sql)
 
-- **Goal:** 
+- **Report** [Case Study 1: How Does a Bike-Share Navigate Speedy Success](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/f6b64d701bb2ab742946bef691d309e160cf6407/Case-study-1_Cyclistics%20Data.pdf)
 
-- **Description:** 
+- **Goal:** To determine how annual members and casual riders use Cyclistics bike differently so as to provide recommendations for future marketing strategy
 
-- **Skills:** 
+- **Description:** Cyclistic is a bike share company with a fleet of bicycles that are geotracked and locked into a network of stations across Chicago. Cyclistic has three pricing plans: single-ride passes, full-day passes, and annual memberships. Customers who purchase single-ride or full-day passes are referred to as casual riders. Customers who purchase annual memberships are annual members. The data used in this case study is a 12-month dataset, from July-2022 to June-2023.
 
-- **Technology:**
-  
-- **Results:** 
+- **Skills:** data cleaning, data processing, data visualization
 
+- **Technology:** postgreSQL, Excel
+
+- **Recommendation**
+    - Promotions should happen more often during the weekend as Casual riders are ones that use the service to travel to tourist attractions, and this frequencies increases during the weekend.
+    - Promotion for the service exclusively for new members in Summer should be prioritize as the number of people using the service will peak during that time.
+    - Focus more on the credit for how long a person use the service to travel to tourist attractions in Chicago
 
 ## 2022-Modeling Ambulance Service for high-risk epidemic patients in HCMC during the COVID-19 outbreak through ARENA simulation software
-**Code:** [Modeling Ambulance Service for high-risk epidemic patients](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/dbd1962569bb432df391307270d0f463dbb9d793/Case-study1_Cyclistic%20Data_Google-cert.sql)
+**Code:** [Modeling Ambulance Service for high-risk epidemic patients]()
 
-- **Goal:** 
+- **Goal:**
+  - Minimize high-risk epidemic patients who are not able to have access to medical assistance regarding COVID-19 and may be exposed to death if they do not receive adequate medical assistance on time.
+  - Improve efficiency in EMS system through balancing out the emergency medical system’s load in epidemic patients admission
 
-- **Description:** 
+- **Description:** Consider an ambulance service modeling for high-risk epidemic patients in Ho Chi Minh city during the fourth wave of COVID-19 started from June, 2021
 
-- **Skills:** 
+- **Skills:** data collection, data validation, simulation, data visualization
 
-- **Technology:**
+- **Technology:** python, ARENA, Excel
   
-- **Results:** 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- **Results:** Through this model, distribution of ambulance in each area is considered as one of the most important conditions help increase the number of people can be saved. In summary, the Ambulance Service (AS) model for COVID-19 has successfully demonstrate the actual situation happened during the pandemic, where the number of response time drastically changed among areas, deficient performance in ambulance utilization where there was a big gap in the number of ambulances used among 22 districts.
 
 
 
@@ -132,7 +124,6 @@ Here are some of the certificates I gathered to assist me in this Data Analytics
 - [Data Analyst with Power BI]() (2024) (Datacamp)
 
 ## Contacts
-- LinkedIn: [@myvo](www.linkedin.com/in/vo-thi-thien-my)
 - Email: thienmy0136@gmail.com
 
 
