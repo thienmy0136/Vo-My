@@ -34,9 +34,9 @@ This is a repository to showcase skills, share projects, and track my progress i
       - [2022-Modeling Ambulance Service for high-risk epidemic patients in HCMC during the COVID-19 outbreak through ARENA simulation software](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/bc2701dc2c46b858b5d114c6c0b5df0c9e4bce7c/ICLIE2022_paper_Modelling%20Ambulance%20Service%20for%20COVID-19.pdf)
 
 
-- [Education]()  
-- [Achievements]()
-- [Contact]()
+- [Education](https://github.com/thienmy0136/Vo-My/blob/main/README.md#education)  
+- [Achievements](https://github.com/thienmy0136/Vo-My/edit/main/README.md#achievements)
+- [Contact](https://github.com/thienmy0136/Vo-My/edit/main/README.md#achievements)
 
 # Portfolio Project
 In this part, I will list data analytics projects and briefly describe the problem and technique used to solve cases. 
