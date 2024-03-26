@@ -31,7 +31,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 
 
     - Simulation
-          -  [2022-Modeling Ambulance Service for high-risk epidemic patients in HCMC during the COVID-19 outbreak through ARENA simulation software](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/bc2701dc2c46b858b5d114c6c0b5df0c9e4bce7c/ICLIE2022_paper_Modelling%20Ambulance%20Service%20for%20COVID-19.pdf)
+      - [2022-Modeling Ambulance Service for high-risk epidemic patients in HCMC during the COVID-19 outbreak through ARENA simulation software](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/bc2701dc2c46b858b5d114c6c0b5df0c9e4bce7c/ICLIE2022_paper_Modelling%20Ambulance%20Service%20for%20COVID-19.pdf)
 
 
 - [Education]()  
