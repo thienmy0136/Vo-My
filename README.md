@@ -20,7 +20,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 - [About](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/753a6355b8c457e64118bd5dea03a062c6d1b0c0/README.md)
 - Portfolio Project
     - Python
-      - [2022-Capstone Design: Modeling the spread of COVID-19 in Ho Chi Minh City during fourth wave](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/3a3cfba15a5c46bbe8550c7c57606148a9bfbbed/COVID-19_forecasting-model_Capstone-design.pdf)
+      - [2022-Capstone Design: Modeling the spread of COVID-19 in Ho Chi Minh City during fourth wave](https://github.com/thienmy0136/Vo-My/blob/1cc4553e58b72c16cb865981d3a2f7e6c878fa6a/Capstone-design-presentation_Covid-19-forecasting-model.pdf)
       - 2023-Data Analyst NICxGoogle Case Study 1: How Does a Bike-Share Navigate Speedy Success
  
     - SQL
@@ -42,7 +42,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 In this part, I will list data analytics projects and briefly describe the problem and technique used to solve cases. 
 
 ## Capstone Design: Modeling the spread of COVID-19 in HCMC during epidemic 4th-wave
-- **Code:** [ARIMA model](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/3a3cfba15a5c46bbe8550c7c57606148a9bfbbed/Capstone%20stone_ARIMA%20model_python.docx) 
+- **Code:** [ARIMA model](https://github.com/thienmy0136/Vo-My/blob/1cc4553e58b72c16cb865981d3a2f7e6c878fa6a/Capstone%20stone_ARIMA%20model_python.pdf) 
 
 - **Paper** [Modeling the spread of COVID-19 in Ho Chi Minh city using ARIMA model](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/8966e09f010ab95eae4ff40ef2d11909a67affb3/COVID-19_forecasting-model_Capstone-design.pdf)
 
@@ -112,7 +112,6 @@ June 2023 - Sep 2023
 December 2024 - Present
 
 ## Achievements
-Here are some of the certificates I gathered to assist me in this Data Analytics journey:
 - Women in Engineering Honor of Industrial and System Engineering - International University, VNU (Nov 2022)
 
 - [Google Data Analytics Professional Certificate](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/8d940ce37a1ed8661e06f8e7484cb044fea7aa4a/Coursera_Data%20Analysis_Certificate.pdf) (Sep 2023) (Coursera - Google)
