@@ -17,7 +17,7 @@ The road to the data analytics world for me is not easy, but with my willing-to-
 This is a repository to showcase skills, share projects, and track my progress in my Data Analytics journey. 
 
 ## Table of Content
-- About
+- [About](https://github.com/thienmy0136/Vo-My/blob/main/README.md#about)
 - Portfolio Project
     - Python
       - [2022-Capstone Design: Modeling the spread of COVID-19 in Ho Chi Minh City during fourth wave](https://github.com/thienmy0136/Vo-My/blob/1cc4553e58b72c16cb865981d3a2f7e6c878fa6a/Capstone-design-presentation_Covid-19-forecasting-model.pdf)
