@@ -9,7 +9,7 @@ In my free time, I love to curl up with a good book, especially finance and busi
 
 Whether working on a team or independently, I am driven by the excitement of discovering new insights and the satisfaction of using data to solve complex problems and hone my skills along the way. 
 
-Aside from being an Engineer after graduation, I also have a passion for helping others. While supporting my family, I stumbled upon a job as an Academic IELTS teacher at IMAP, Vietnam, one of the biggest educational institutes that teaches English to Vietnamese. 
+Aside from being an Engineer after graduation, I also have a passion for helping others. While supporting my family, I stumbled upon a job as an Academic IELTS teacher at IMAP, one of the biggest educational institutes that teaches English to Vietnamese. 
 During my time working as a teacher (which is a whole new experience for me!), I realize that data is everywhere, and without data and data visualization, I cannot effectively deliver a satisfactory teaching experience to my students and communicate effectively with parents.
 
 The road to the data analytics world for me is not easy, but with my willing-to-learn attitude and not being afraid to ask questions, I know the world of data has so much more to explore. 
