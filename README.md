@@ -44,8 +44,6 @@ In this part, I will list data analytics projects and briefly describe the probl
 ## Capstone Design: Modeling the spread of COVID-19 in HCMC during epidemic 4th-wave
 - **Code:** [ARIMA model](https://github.com/thienmy0136/Vo-My/blob/1cc4553e58b72c16cb865981d3a2f7e6c878fa6a/Capstone%20stone_ARIMA%20model_python.pdf) 
 
-- **Paper** [Modeling the spread of COVID-19 in Ho Chi Minh city using ARIMA model](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/8966e09f010ab95eae4ff40ef2d11909a67affb3/COVID-19_forecasting-model_Capstone-design.pdf)
-
 - **Goal:** Forecasting the spread of COVID-19 in Ho Chi Minh City, Vietnam during the biggest wave of the epidemic in 2021 to understand the basics of impact an upcoming wave can have on social and economic aspects
 
 - **Description:** This paper shows a quantitative analysis of forecasting confirmed cases of Ho Chi Minh City through the ARIMA model during April 27th, 2021, and November 24th, 2021, while implementing external parameters such as daily vaccination rate, covid-variant incubation period and generation time, as well as social distancing applied for each control policy through Pearson’s correlation method.
