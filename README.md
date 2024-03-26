@@ -14,8 +14,6 @@ During my time working as a teacher (which is a whole new experience for me!), I
 
 The road to the data analytics world for me is not easy, but with my willing-to-learn attitude and not being afraid to ask questions, I know the world of data has so much more to explore. 
 
-My CV in [pdf](https://github.com/thienmy0136/Vo-Thi-Thien-My/blob/753a6355b8c457e64118bd5dea03a062c6d1b0c0/VoThiThienMy_CV.pdf).
-
 This is a repository to showcase skills, share projects, and track my progress in my Data Analytics journey. 
 
 ## Table of Content
